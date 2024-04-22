@@ -30,7 +30,7 @@ body {
 
 /* general*/
 .grid-container {
-    width: 85%;
+    width: 82%;
     max-width: 900px;
     margin: auto;
     display: grid;
